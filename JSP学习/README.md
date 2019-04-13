@@ -12,7 +12,7 @@
 运行效果如下：
 
 登录页面：
-![图片1](https://github.com/Gipbear/JSP_Train/blob/master/公告管理系统/图片/图片1.png)
+![图片1](https://github.com/Gipbear/JavaWeb-Road/blob/master/JSP学习/公告管理系统——练习/图片/图片1.png)
 
 登录后的公告列表：
 ![图片2](https://github.com/Gipbear/JSP_Train/blob/master/公告管理系统/图片/图片2.png)
